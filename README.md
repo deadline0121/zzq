@@ -1,2 +1,2 @@
-# zzq
-.
+# Personal property management system
+
